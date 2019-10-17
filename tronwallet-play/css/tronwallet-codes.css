@@ -82,3 +82,4 @@
 .icon-close-window:before { content: '\71'; } /* 'q' */
 .icon-maximize-window:before { content: '\72'; } /* 'r' */
 .icon-minimize-window:before { content: '\73'; } /* 's' */
+.icon-list:before { content: '\74'; } /* 't' */
