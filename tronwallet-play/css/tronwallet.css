@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'tronwallet';
-  src: url('../font/tronwallet.eot?31294368');
-  src: url('../font/tronwallet.eot?31294368#iefix') format('embedded-opentype'),
-       url('../font/tronwallet.woff2?31294368') format('woff2'),
-       url('../font/tronwallet.woff?31294368') format('woff'),
-       url('../font/tronwallet.ttf?31294368') format('truetype'),
-       url('../font/tronwallet.svg?31294368#tronwallet') format('svg');
+  src: url('../font/tronwallet.eot?31036176');
+  src: url('../font/tronwallet.eot?31036176#iefix') format('embedded-opentype'),
+       url('../font/tronwallet.woff2?31036176') format('woff2'),
+       url('../font/tronwallet.woff?31036176') format('woff'),
+       url('../font/tronwallet.ttf?31036176') format('truetype'),
+       url('../font/tronwallet.svg?31036176#tronwallet') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'tronwallet';
-    src: url('../font/tronwallet.svg?31294368#tronwallet') format('svg');
+    src: url('../font/tronwallet.svg?31036176#tronwallet') format('svg');
   }
 }
 */
@@ -139,3 +139,7 @@
 .icon-maximize-window:before { content: '\72'; } /* 'r' */
 .icon-minimize-window:before { content: '\73'; } /* 's' */
 .icon-list:before { content: '\74'; } /* 't' */
+.icon-cloud:before { content: '\75'; } /* 'u' */
+.icon-favorite:before { content: '\76'; } /* 'v' */
+.icon-favorited:before { content: '\77'; } /* 'w' */
+.icon-local-save:before { content: '\78'; } /* 'x' */

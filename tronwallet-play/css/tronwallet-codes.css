@@ -83,3 +83,7 @@
 .icon-maximize-window:before { content: '\72'; } /* 'r' */
 .icon-minimize-window:before { content: '\73'; } /* 's' */
 .icon-list:before { content: '\74'; } /* 't' */
+.icon-cloud:before { content: '\75'; } /* 'u' */
+.icon-favorite:before { content: '\76'; } /* 'v' */
+.icon-favorited:before { content: '\77'; } /* 'w' */
+.icon-local-save:before { content: '\78'; } /* 'x' */
