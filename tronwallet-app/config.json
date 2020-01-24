@@ -2066,7 +2066,7 @@
     },
     {
       "uid": "2a3396be8026373162e7f4080a31930f",
-      "css": "edit,-update,-pencil,-post,-write",
+      "css": "edit",
       "code": 59587,
       "src": "custom_icons",
       "selected": true,
@@ -2075,7 +2075,11 @@
         "width": 1000
       },
       "search": [
-        "edit,-update,-pencil,-post,-write"
+        "edit",
+        "-update",
+        "-pencil",
+        "-post",
+        "-write"
       ]
     },
     {
@@ -2458,7 +2462,7 @@
     },
     {
       "uid": "3f0745f23ef4cf9ab35bbc501cb5f287",
-      "css": "paint,-color,-palette,-art,-drawing",
+      "css": "paint",
       "code": 59615,
       "src": "custom_icons",
       "selected": true,
@@ -2467,7 +2471,11 @@
         "width": 1000
       },
       "search": [
-        "paint,-color,-palette,-art,-drawing"
+        "paint",
+        "-color",
+        "-palette",
+        "-art",
+        "-drawing"
       ]
     },
     {
@@ -2570,7 +2578,7 @@
     },
     {
       "uid": "5eca39102389ce4b7bb66d6b057ecba5",
-      "css": "safety,-lifesaver,-protection,-insurance,-lifeguard",
+      "css": "safety",
       "code": 59623,
       "src": "custom_icons",
       "selected": true,
@@ -2579,7 +2587,11 @@
         "width": 1000
       },
       "search": [
-        "safety,-lifesaver,-protection,-insurance,-lifeguard"
+        "safety",
+        "-lifesaver",
+        "-protection",
+        "-insurance",
+        "-lifeguard"
       ]
     },
     {
@@ -3018,7 +3030,7 @@
     },
     {
       "uid": "93aa2734ed759ca2dcb73297aae8bc4d",
-      "css": "edit-file-pen,-file-pen,-copy,-modify,-write",
+      "css": "edit-file-pen",
       "code": 59657,
       "src": "custom_icons",
       "selected": true,
@@ -3027,12 +3039,16 @@
         "width": 1000
       },
       "search": [
-        "edit-file-pen,-file-pen,-copy,-modify,-write"
+        "edit-file-pen",
+        "-file-pen",
+        "-copy",
+        "-modify",
+        "-write"
       ]
     },
     {
       "uid": "2bcf701bec634eae119314f698566e8a",
-      "css": "edit-file,-editing,-edit-document,-edit,-editor",
+      "css": "edit-file",
       "code": 59658,
       "src": "custom_icons",
       "selected": true,
@@ -3041,7 +3057,11 @@
         "width": 1000
       },
       "search": [
-        "edit-file,-editing,-edit-document,-edit,-editor"
+        "edit-file",
+        "-editing",
+        "-edit-document",
+        "-edit",
+        "-editor"
       ]
     },
     {
@@ -4208,7 +4228,7 @@
     },
     {
       "uid": "1e4f9ee9078ab23b5b0e7df5ae7f91c3",
-      "css": "edit",
+      "css": "edit-1",
       "code": 59439,
       "src": "custom_icons",
       "selected": true,
@@ -4908,6 +4928,42 @@
       "search": [
         "arrow-right"
       ]
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 61594,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf09b1c6561dc0ced707476e2cd83d29",
+      "css": "medium",
+      "code": 62010,
+      "src": "fontawesome"
     }
   ]
 }
