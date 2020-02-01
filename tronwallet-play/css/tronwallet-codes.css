@@ -45,11 +45,13 @@
 .icon-folder:before { content: '\e82b'; } /* '' */
 .icon-fingerprint:before { content: '\e82c'; } /* '' */
 .icon-gambling:before { content: '\e82d'; } /* '' */
+.icon-bug:before { content: '\e82e'; } /* '' */
 .icon-gradient-arrow:before { content: '\e82f'; } /* '' */
 .icon-heart-fill:before { content: '\e830'; } /* '' */
 .icon-heart:before { content: '\e831'; } /* '' */
-.icon-help:before { content: '\e832'; } /* '' */
+.icon-menu-help:before { content: '\e832'; } /* '' */
 .icon-history:before { content: '\e833'; } /* '' */
+.icon-sad:before { content: '\e834'; } /* '' */
 .icon-info-balloon:before { content: '\e835'; } /* '' */
 .icon-info:before { content: '\e836'; } /* '' */
 .icon-instagram:before { content: '\e837'; } /* '' */
@@ -93,6 +95,7 @@
 .icon-transfer:before { content: '\e85d'; } /* '' */
 .icon-triangle-down:before { content: '\e85e'; } /* '' */
 .icon-triangle-up:before { content: '\e85f'; } /* '' */
+.icon-checkbox-outline:before { content: '\e860'; } /* '' */
 .icon-tw-logo:before { content: '\e862'; } /* '' */
 .icon-twitter:before { content: '\e863'; } /* '' */
 .icon-unfreeze-fill:before { content: '\e864'; } /* '' */
@@ -106,3 +109,7 @@
 .icon-tutorials:before { content: '\e86c'; } /* '' */
 .icon-pie-chart:before { content: '\e86d'; } /* '' */
 .icon-house:before { content: '\e86e'; } /* '' */
+.icon-checked:before { content: '\e86f'; } /* '' */
+.icon-expand:before { content: '\e870'; } /* '' */
+.icon-more:before { content: '\e871'; } /* '' */
+.icon-square-outline:before { content: '\e872'; } /* '' */
