@@ -1713,6 +1713,20 @@
       "search": [
         "visible"
       ]
+    },
+    {
+      "uid": "8c2e241a2d94b0101b31e3732f194de2",
+      "css": "gradient-arrow-up",
+      "code": 59495,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M865.6 631.3L500 265.6 134.4 631.3 237.5 734.4 500 471.9 762.5 734.4 865.6 631.3Z",
+        "width": 1000
+      },
+      "search": [
+        "gradient-arrow-up"
+      ]
     }
   ]
 }
