@@ -102,7 +102,6 @@
 .icon-unfreeze-fill:before { content: '\e864'; } /* '' */
 .icon-unfreeze:before { content: '\e865'; } /* '' */
 .icon-user:before { content: '\e866'; } /* '' */
-.icon-visible:before { content: '\e867'; } /* '' */
 .icon-vote:before { content: '\e868'; } /* '' */
 .icon-votes:before { content: '\e869'; } /* '' */
 .icon-wallet:before { content: '\e86a'; } /* '' */
@@ -120,3 +119,5 @@
 .icon-menu-help:before { content: '\e876'; } /* '' */
 .icon-error:before { content: '\e877'; } /* '' */
 .icon-pie:before { content: '\e878'; } /* '' */
+.icon-invisible:before { content: '\e879'; } /* '' */
+.icon-visible:before { content: '\e87a'; } /* '' */
