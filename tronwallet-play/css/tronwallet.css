@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'tronwallet';
-  src: url('../font/tronwallet.eot?14071994');
-  src: url('../font/tronwallet.eot?14071994#iefix') format('embedded-opentype'),
-       url('../font/tronwallet.woff2?14071994') format('woff2'),
-       url('../font/tronwallet.woff?14071994') format('woff'),
-       url('../font/tronwallet.ttf?14071994') format('truetype'),
-       url('../font/tronwallet.svg?14071994#tronwallet') format('svg');
+  src: url('../font/tronwallet.eot?97990132');
+  src: url('../font/tronwallet.eot?97990132#iefix') format('embedded-opentype'),
+       url('../font/tronwallet.woff2?97990132') format('woff2'),
+       url('../font/tronwallet.woff?97990132') format('woff'),
+       url('../font/tronwallet.ttf?97990132') format('truetype'),
+       url('../font/tronwallet.svg?97990132#tronwallet') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'tronwallet';
-    src: url('../font/tronwallet.svg?14071994#tronwallet') format('svg');
+    src: url('../font/tronwallet.svg?97990132#tronwallet') format('svg');
   }
 }
 */
