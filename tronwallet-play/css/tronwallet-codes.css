@@ -51,7 +51,6 @@
 .icon-filter-range:before { content: '\e832'; } /* '' */
 .icon-history:before { content: '\e833'; } /* '' */
 .icon-sad:before { content: '\e834'; } /* '' */
-.icon-info-balloon:before { content: '\e835'; } /* '' */
 .icon-info:before { content: '\e836'; } /* '' */
 .icon-key:before { content: '\e838'; } /* '' */
 .icon-list:before { content: '\e839'; } /* '' */
@@ -144,3 +143,4 @@
 .icon-twitter:before { content: '\e897'; } /* '' */
 .icon-github:before { content: '\e898'; } /* '' */
 .icon-menu-about:before { content: '\e899'; } /* '' */
+.icon-info-ballon:before { content: '\e89a'; } /* '' */
