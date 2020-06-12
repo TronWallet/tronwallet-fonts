@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'tronwallet';
-  src: url('../font/tronwallet.eot?90922059');
-  src: url('../font/tronwallet.eot?90922059#iefix') format('embedded-opentype'),
-       url('../font/tronwallet.woff2?90922059') format('woff2'),
-       url('../font/tronwallet.woff?90922059') format('woff'),
-       url('../font/tronwallet.ttf?90922059') format('truetype'),
-       url('../font/tronwallet.svg?90922059#tronwallet') format('svg');
+  src: url('../font/tronwallet.eot?16026298');
+  src: url('../font/tronwallet.eot?16026298#iefix') format('embedded-opentype'),
+       url('../font/tronwallet.woff2?16026298') format('woff2'),
+       url('../font/tronwallet.woff?16026298') format('woff'),
+       url('../font/tronwallet.ttf?16026298') format('truetype'),
+       url('../font/tronwallet.svg?16026298#tronwallet') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'tronwallet';
-    src: url('../font/tronwallet.svg?90922059#tronwallet') format('svg');
+    src: url('../font/tronwallet.svg?16026298#tronwallet') format('svg');
   }
 }
 */
@@ -108,7 +108,6 @@
 .icon-filter-range:before { content: '\e832'; } /* '' */
 .icon-history:before { content: '\e833'; } /* '' */
 .icon-sad:before { content: '\e834'; } /* '' */
-.icon-info-balloon:before { content: '\e835'; } /* '' */
 .icon-info:before { content: '\e836'; } /* '' */
 .icon-instagram:before { content: '\e837'; } /* '' */
 .icon-key:before { content: '\e838'; } /* '' */
@@ -183,3 +182,21 @@
 .icon-klv-logo:before { content: '\e87d'; } /* '' */
 .icon-menu-reset:before { content: '\e87e'; } /* '' */
 .icon-menu-lock:before { content: '\e87f'; } /* '' */
+.icon-menu-2fa:before { content: '\e880'; } /* '' */
+.icon-menu-about:before { content: '\e881'; } /* '' */
+.icon-menu-backup:before { content: '\e882'; } /* '' */
+.icon-menu-browser:before { content: '\e883'; } /* '' */
+.icon-menu-coins:before { content: '\e884'; } /* '' */
+.icon-menu-currency:before { content: '\e885'; } /* '' */
+.icon-menu-exchange:before { content: '\e886'; } /* '' */
+.icon-menu-face-id:before { content: '\e887'; } /* '' */
+.icon-menu-fingerprint:before { content: '\e888'; } /* '' */
+.icon-menu-helpcenter:before { content: '\e889'; } /* '' */
+.icon-menu-language:before { content: '\e88a'; } /* '' */
+.icon-menu-notebook:before { content: '\e88c'; } /* '' */
+.icon-menu-notifications:before { content: '\e88d'; } /* '' */
+.icon-menu-pin:before { content: '\e88e'; } /* '' */
+.icon-menu-referral:before { content: '\e88f'; } /* '' */
+.icon-menu-restore:before { content: '\e891'; } /* '' */
+.icon-menu-signals:before { content: '\e892'; } /* '' */
+.icon-info-ballon:before { content: '\e893'; } /* '' */
