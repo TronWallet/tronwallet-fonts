@@ -1,5 +1,6 @@
 
 .icon-info-ballon:before { content: '\e800'; } /* '' */
+.icon-menu-currency:before { content: '\e801'; } /* '' */
 .icon-add:before { content: '\e816'; } /* '' */
 .icon-check:before { content: '\e817'; } /* '' */
 .icon-close-small:before { content: '\e81a'; } /* '' */
@@ -127,7 +128,7 @@
 .icon-menu-backup:before { content: '\e895'; } /* '' */
 .icon-menu-browser:before { content: '\e896'; } /* '' */
 .icon-menu-coins:before { content: '\e897'; } /* '' */
-.icon-menu-currency:before { content: '\e898'; } /* '' */
+.icon-order:before { content: '\e898'; } /* '' */
 .icon-menu-exchange:before { content: '\e899'; } /* '' */
 .icon-menu-face-id:before { content: '\e89a'; } /* '' */
 .icon-menu-helpcenter:before { content: '\e89b'; } /* '' */
