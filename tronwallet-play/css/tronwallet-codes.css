@@ -1,6 +1,8 @@
 
 .icon-info-ballon:before { content: '\e800'; } /* '' */
 .icon-menu-currency:before { content: '\e801'; } /* '' */
+.icon-decreasesfont:before { content: '\e802'; } /* '' */
+.icon-enhancefont:before { content: '\e803'; } /* '' */
 .icon-add:before { content: '\e816'; } /* '' */
 .icon-check:before { content: '\e817'; } /* '' */
 .icon-close-small:before { content: '\e81a'; } /* '' */
