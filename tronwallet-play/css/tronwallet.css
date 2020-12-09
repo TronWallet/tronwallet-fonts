@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'tronwallet';
-  src: url('../font/tronwallet.eot?47971838');
-  src: url('../font/tronwallet.eot?47971838#iefix') format('embedded-opentype'),
-       url('../font/tronwallet.woff2?47971838') format('woff2'),
-       url('../font/tronwallet.woff?47971838') format('woff'),
-       url('../font/tronwallet.ttf?47971838') format('truetype'),
-       url('../font/tronwallet.svg?47971838#tronwallet') format('svg');
+  src: url('../font/tronwallet.eot?22148697');
+  src: url('../font/tronwallet.eot?22148697#iefix') format('embedded-opentype'),
+       url('../font/tronwallet.woff2?22148697') format('woff2'),
+       url('../font/tronwallet.woff?22148697') format('woff'),
+       url('../font/tronwallet.ttf?22148697') format('truetype'),
+       url('../font/tronwallet.svg?22148697#tronwallet') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'tronwallet';
-    src: url('../font/tronwallet.svg?47971838#tronwallet') format('svg');
+    src: url('../font/tronwallet.svg?22148697#tronwallet') format('svg');
   }
 }
 */
@@ -59,6 +59,7 @@
 .icon-menu-currency:before { content: '\e801'; } /* '' */
 .icon-decreasesfont:before { content: '\e802'; } /* '' */
 .icon-enhancefont:before { content: '\e803'; } /* '' */
+.icon-substack:before { content: '\e804'; } /* '' */
 .icon-add:before { content: '\e816'; } /* '' */
 .icon-check:before { content: '\e817'; } /* '' */
 .icon-close-small:before { content: '\e81a'; } /* '' */

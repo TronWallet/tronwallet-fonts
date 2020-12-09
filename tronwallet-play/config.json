@@ -2175,6 +2175,20 @@
       "search": [
         "enhancefont"
       ]
+    },
+    {
+      "uid": "cb87711cfd1b32f55e063dd849055b15",
+      "css": "substack",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M843.8 93.8H156.3V208.3H843.8V93.8ZM156.3 265.6H843.8V380.2H156.3V265.6ZM843.8 437.5H156.3V895.8L500 689.8 843.8 895.8V437.5Z",
+        "width": 1000
+      },
+      "search": [
+        "substack"
+      ]
     }
   ]
 }
