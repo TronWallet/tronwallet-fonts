@@ -34,6 +34,7 @@
 .icon-copy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe819;&nbsp;'); }
 .icon-arrow-line-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;&nbsp;'); }
 .icon-menu-chatbot { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe89b;&nbsp;'); }
+.icon-menu-id { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe89c;&nbsp;'); }
 .icon-add-small { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8a9;&nbsp;'); }
 .icon-dapps { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8aa;&nbsp;'); }
 .icon-fingerprint { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ab;&nbsp;'); }
