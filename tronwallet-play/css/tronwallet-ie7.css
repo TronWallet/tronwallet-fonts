@@ -2,14 +2,14 @@
   font-family: 'tronwallet';
   font-style: normal;
   font-weight: normal;
- 
+
   /* fix buttons height */
   line-height: 1em;
- 
+
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
 }
- 
+
 .icon-info-ballon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
 .icon-menu-currency { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
 .icon-decreasesfont { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
@@ -166,4 +166,5 @@
 .icon-buy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b0;&nbsp;'); }
 .icon-staking { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b1;&nbsp;'); }
 .icon-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b2;&nbsp;'); }
+.icon-menu-privacy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b4;&nbsp;'); }
 .icon-discord { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea77;&nbsp;'); }

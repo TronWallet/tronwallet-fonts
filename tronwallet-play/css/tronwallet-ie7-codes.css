@@ -155,4 +155,5 @@
 .icon-buy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b0;&nbsp;'); }
 .icon-staking { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b1;&nbsp;'); }
 .icon-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b2;&nbsp;'); }
+.icon-menu-privacy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b4;&nbsp;'); }
 .icon-discord { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea77;&nbsp;'); }
