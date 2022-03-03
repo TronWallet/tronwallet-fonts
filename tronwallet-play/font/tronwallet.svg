@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
 <defs>
 <font id="tronwallet" horiz-adv-x="1000" >
 <font-face font-family="tronwallet" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -15,6 +15,8 @@
 <glyph glyph-name="enhancefont" unicode="&#xe803;" d="M810 168c12 13 12 31 0 43l-96 96c-9 12-24 18-42 18-15 0-30-6-42-18l-96-96c-12-12-12-30 0-43 12-12 31-12 43 0l65 66v-204c0-9 3-16 8-22 5-5 13-8 22-8 9 0 17 3 22 8 5 6 8 13 8 22v204l65-66c12-12 31-12 43 0z m-329 441h133c13 0 25-11 25-25v-37c0-17 13-31 30-31 17 0 31 14 31 31v84c0 21-17 38-37 38h-475c-21 0-38-17-38-38v-84c0-17 14-31 31-31 17 0 30 14 30 31v37c0 14 12 25 25 25h133c14 0 25-11 25-25v-499c0-14-11-26-25-26h-43c-16 0-29-13-29-29 0-17 13-30 29-30h198c16 0 29 13 29 30 0 16-13 29-29 29h-43c-14 0-25 12-25 26v499c0 14 11 25 25 25z" horiz-adv-x="1000" />
 
 <glyph glyph-name="substack" unicode="&#xe804;" d="M844 756h-688v-114h688v114z m-688-172h688v-114h-688v114z m688-171h-688v-459l344 206 344-206v459z" horiz-adv-x="1000" />
+
+<glyph glyph-name="menu-wallet-connect" unicode="&#xe805;" d="M249 509c139 135 363 135 502 0l17-17c7-6 7-17 0-24l-57-56c-4-4-9-4-13 0l-23 22c-96 95-253 95-350 0l-24-24c-4-3-10-3-13 0l-57 56c-7 7-7 18 0 25l18 18z m620-116l51-49c7-7 7-18 0-25l-229-224c-7-7-18-7-25 0l-163 159c-2 2-4 2-6 0l-163-159c-7-7-18-7-25 0l-229 224c-7 7-7 18 0 24l51 50c7 7 18 7 25 0l163-159c1-2 4-2 6 0l162 159c7 7 18 7 25 0l163-159c2-2 5-2 6 0l163 159c7 7 18 7 25 0z" horiz-adv-x="1000" />
 
 <glyph glyph-name="add" unicode="&#xe816;" d="M960 341c0-14-12-26-27-26h-415v-416c0-14-12-26-27-26s-26 12-26 26v416h-416c-14 0-26 12-26 26s12 27 26 27h416v415c0 15 12 27 26 27s27-12 27-27v-415h415c15 0 27-12 27-27z" horiz-adv-x="1000" />
 
